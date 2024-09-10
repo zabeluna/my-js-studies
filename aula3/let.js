@@ -9,3 +9,6 @@
 let clientName = "Carol";
 
 console.log(clientName);
+
+//let tem escopo de bloco, ou seja, tudo dentro de chaves {.......}
+//var só tem escopo de função 

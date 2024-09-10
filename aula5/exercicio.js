@@ -1,7 +1,10 @@
-let varA = 'A';
-let varB = 'B';
-let varC = 'C';
+let a = 'A'; //B
+let b = 'B'; //C
+let c = 'C'; //A
 
-const varA = varB;
+//const varA = varB;
+//console.log(varA, varB, varC);
 
-console.log(varA, varB, varC);
+const letras = [b, c, a]; // quero imprimir nessa ordem
+[a, b, c] = letras;
+console.log(a, b, c);
