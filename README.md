@@ -8,7 +8,6 @@ This repository contains my journey of learning and improving JavaScript skills.
 - DOM manipulation
 - Functions and closures
 - Arrays and objects
-- ES6+ features
 - Asynchronous JavaScript (Promises, Async/Await)
 
 ## Purpose
