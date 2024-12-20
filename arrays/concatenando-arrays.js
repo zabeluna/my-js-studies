@@ -1,6 +1,6 @@
 // [] = array ||| {} = objeto
 
-// for concatenation of arrays, i can use two methods: "...[]" or "name-of-array.concat(array)"
+//For concatenation of arrays, I can use two methods: ...[] or arrayName.concat(array).
 
 const array1 = ['ana', 'maria', 'caio'];
 const array2 = ['matt', 'ray', 'oceane'];
