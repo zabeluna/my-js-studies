@@ -11,9 +11,9 @@ const duplicateNumbers = numeros.map(function(valor){
 
 /* 
 For each element: 
-- Return only one string with the person's name. OK
-- Remove only the "name" key from the object. OK
-- Add just one key, "id," to each object. OK
+- Return only one string with the person's name - OK
+- Remove only the "name" key from the object - OK
+- Add just one key, "id," to each object - OK
 */
 
 const people = [
